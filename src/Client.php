@@ -5,7 +5,7 @@
  * @author Edson Medina <edsonmedina@gmail.com>
  */
 
-namespace edsonmedina\bittrex;
+namespace Bittrex;
 
 class Client
 {

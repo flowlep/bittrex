@@ -9,5 +9,24 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+
+  "require-dev": {
+    "phpunit/phpunit": "^5",
+    "symfony/var-dumper": "@stable"
+  },
+  "suggest": {},
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bittrex\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
 }
