@@ -1,0 +1,13 @@
+{
+    "name": "flowlep/bittrex-api-client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florian",
+            "email": "florian.lepot@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
